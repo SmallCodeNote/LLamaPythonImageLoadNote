@@ -2,8 +2,8 @@
 ## Model Source
 https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/tree/main
 
-google_gemma-4-E4B-it-Q8_0.gguf
-mmproj-google_gemma-4-E4B-it-f16.gguf
+- google_gemma-4-E4B-it-Q8_0.gguf
+- mmproj-google_gemma-4-E4B-it-f16.gguf
 
 ## Python Version 
 python 3.12.10 Embeddable **(Installation location: .\python)**
